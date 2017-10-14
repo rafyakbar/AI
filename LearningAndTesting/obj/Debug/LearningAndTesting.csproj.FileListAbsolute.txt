@@ -1,0 +1,11 @@
+D:\Drive\Kuliah\AI\LearningAndTesting\bin\Debug\LearningAndTesting.exe.config
+D:\Drive\Kuliah\AI\LearningAndTesting\bin\Debug\LearningAndTesting.exe
+D:\Drive\Kuliah\AI\LearningAndTesting\bin\Debug\LearningAndTesting.pdb
+D:\Drive\Kuliah\AI\LearningAndTesting\obj\Debug\LearningAndTesting.csprojResolveAssemblyReference.cache
+D:\Drive\Kuliah\AI\LearningAndTesting\obj\Debug\LearningAndTesting.GUI.resources
+D:\Drive\Kuliah\AI\LearningAndTesting\obj\Debug\LearningAndTesting.Properties.Resources.resources
+D:\Drive\Kuliah\AI\LearningAndTesting\obj\Debug\LearningAndTesting.csproj.GenerateResource.Cache
+D:\Drive\Kuliah\AI\LearningAndTesting\obj\Debug\LearningAndTesting.exe
+D:\Drive\Kuliah\AI\LearningAndTesting\obj\Debug\LearningAndTesting.pdb
+D:\Drive\Kuliah\AI\LearningAndTesting\bin\Debug\AI.dll
+D:\Drive\Kuliah\AI\LearningAndTesting\bin\Debug\AI.pdb

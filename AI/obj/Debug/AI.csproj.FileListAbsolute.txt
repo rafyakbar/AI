@@ -1,0 +1,8 @@
+D:\Drive\Kuliah\AI\AI\bin\Debug\AI.dll
+D:\Drive\Kuliah\AI\AI\bin\Debug\AI.pdb
+D:\Drive\Kuliah\AI\AI\obj\Debug\AI.csprojResolveAssemblyReference.cache
+D:\Drive\Kuliah\AI\AI\obj\Debug\AI.NeuralNetwork.LearningGUI.resources
+D:\Drive\Kuliah\AI\AI\obj\Debug\AI.ProgressLearningForm.resources
+D:\Drive\Kuliah\AI\AI\obj\Debug\AI.csproj.GenerateResource.Cache
+D:\Drive\Kuliah\AI\AI\obj\Debug\AI.dll
+D:\Drive\Kuliah\AI\AI\obj\Debug\AI.pdb

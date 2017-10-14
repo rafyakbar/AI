@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI", "AI\AI.csproj", "{154D9427-1596-4FA9-85B3-5D7BBC76EF42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningAndTesting", "LearningAndTesting\LearningAndTesting.csproj", "{8016EBB4-368D-4CF3-8AEB-646F0DD66721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{154D9427-1596-4FA9-85B3-5D7BBC76EF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154D9427-1596-4FA9-85B3-5D7BBC76EF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154D9427-1596-4FA9-85B3-5D7BBC76EF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154D9427-1596-4FA9-85B3-5D7BBC76EF42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8016EBB4-368D-4CF3-8AEB-646F0DD66721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8016EBB4-368D-4CF3-8AEB-646F0DD66721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8016EBB4-368D-4CF3-8AEB-646F0DD66721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8016EBB4-368D-4CF3-8AEB-646F0DD66721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
